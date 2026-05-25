@@ -1,0 +1,15 @@
+React JS Notes
+
+React Js combination of html and js which is called as jsx - javascript xml.
+
+Components:
+1.Function Components
+2. Class Components (older)
+
+Hooks - the functions can be done by class Components are achieving using hooks.
+
+
+public - videos, images folder
+package.json - libraries stored here - developer dependency
+                                       production dependency
+node modules - all node modules or packages
